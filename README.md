@@ -1,3 +1,6 @@
+
+<img src="https://github.com/ElectroDev1/Sprite-Shape-Generator/blob/main/logo.png">
+
 # Sprite Shape Generator
 A tool inspired by <a href="https://twitter.com/shaunspalding">Shaun Spalding's</a> lighting system video to define shapes in sprites and save them as simple coordinates in a text file in a very fast and easy way.
 
