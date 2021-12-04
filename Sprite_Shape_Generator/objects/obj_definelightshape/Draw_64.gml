@@ -4,7 +4,7 @@ draw_set_font(Font1);
 draw_set_halign(fa_center);draw_set_colour(c_white);draw_set_valign(fa_top);
 
 //Title
-draw_text_transformed(room_width/2,15,"Light shape generator",2,2,0);
+draw_text_transformed(room_width/2,15,"Sprite shape generator",2,2,0);
 
 //Notes
 draw_set_halign(fa_right);draw_set_valign(fa_bottom);

@@ -7,7 +7,7 @@ this can be useful to define shapes for things like lighting systems that suppor
 
 Spritesurf = -4;               //Sprite canvas
 Spritefile = -4;               //The sprite in use
-Spritesize = 10;               //Size of the sprite
+Spritesize = 8;               //Size of the sprite
 
 Filename   = "";               //Name of the image file
 W=0; H=0;                      //Width and height variables
