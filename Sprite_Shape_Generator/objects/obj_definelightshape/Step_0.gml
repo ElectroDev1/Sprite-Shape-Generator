@@ -2,7 +2,7 @@
 
 if(Spritefile==-4){   //If no sprite has been set
 	
-	window_set_caption("Light shape generator - Click to select a sprite");
+	window_set_caption("Sprite shape generator - Click to select a sprite");
 	
 	var file="";
 	
@@ -28,7 +28,7 @@ else{
 	if(keyboard_check_pressed(vk_up)){Spritesize++;}
 	if(keyboard_check_pressed(vk_down)){if(Spritesize>1){Spritesize--;}}
 	
-	window_set_caption("Light shape generator - Editing shape");
+	window_set_caption("Sprite shape generator - Editing shape");
 
     var _originX = room_width/2-W/2*Spritesize;
     var _originY = room_height/2-H/2*Spritesize;
