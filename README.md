@@ -12,6 +12,6 @@ All you have to do is select a .png file from your computer and the game will im
 <hr>
 
 # Credits
-Origina idea by <a href="https://twitter.com/shaunspalding">Shaun Spalding</a>
+Original idea by <a href="https://twitter.com/shaunspalding">Shaun Spalding</a>
 <br>
 Execute Shell Simple by <a href="https://github.com/YellowAfterlife">YellowAfterLife</a>
