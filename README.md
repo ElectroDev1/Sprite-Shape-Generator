@@ -15,3 +15,5 @@ All you have to do is select a .png file from your computer and the game will im
 Original idea by <a href="https://twitter.com/shaunspalding">Shaun Spalding</a>
 <br>
 Execute Shell Simple by <a href="https://github.com/YellowAfterlife">YellowAfterLife</a>
+<br>
+[nkrapivin](https://github.com/nkrapivin)'s [Discord RPC extension](https://github.com/nkrapivin/NekoPresence) for Gamemaker
